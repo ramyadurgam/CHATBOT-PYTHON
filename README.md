@@ -110,6 +110,5 @@ good night	polite goodbye
 CodeAlpha_BasicChatbot/
 ├── chatbot.py
 └── README.md
-md
 👤 Author
 Your Name: RAMYA DURGAM
